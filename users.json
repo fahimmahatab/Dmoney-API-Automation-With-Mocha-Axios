@@ -1,0 +1,26 @@
+[
+    {
+        "id": 37585,
+        "name": "Anne Stamm",
+        "email": "Cary_Aufderhar83@hotmail.com",
+        "phone_number": "01750013970",
+        "nid": "1234567890",
+        "role": "Agent"
+    },
+    {
+        "id": 37586,
+        "name": "Elsa Zulauf-Schaefer",
+        "email": "Ocie26@yahoo.com",
+        "phone_number": "01750030112",
+        "nid": "1234567890",
+        "role": "Customer"
+    },
+    {
+        "id": 37587,
+        "name": "Dr. Marco Robel",
+        "email": "Wallace78@hotmail.com",
+        "phone_number": "01750024655",
+        "nid": "1234567890",
+        "role": "Customer"
+    }
+]
