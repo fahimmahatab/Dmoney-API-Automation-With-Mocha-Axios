@@ -3,7 +3,7 @@
 - Dmoney is a demo financial related project. where fake money can be transferred. In this project i have automate the D-money api using Rest Assured. Here I have covered following task as Login, create User(Agent) & two User(Customer), Deposit money System account to Agent account. Deposit money Agent account to Customer account, Withdraw Ammount by the Customer from Agent, Send money Customer to Another Customer, Customer Payment to Merchant Account and Checking 2nd Customer balance.
 ## About this project:
 ## API's from this Collection: https://api.postman.com/collections/1844288-143eb923-423f-4c91-a198-fe6e56d20e35?access_key=PMAT-01GJ3CC22Q0066PJWP3T0XHQ8G
-## Here I automate the following Steps:
+## Scenerio:
 1. Do Login by admin
 2. Create 2 new customers and a agent
 3. Give 2000 tk from System account to the newly created agent
